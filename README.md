@@ -20,16 +20,6 @@
 - Comunication
 </details>
 
-### Linguagens
-<p>
-  <a href="https://github.com/fabrizio-DDoS">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabrizio-DDoS&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
-
-</div>
-<br>
-    
 ### Minhas Redes
 <div>
   <a href="https://www.instagram.com/fabriziommoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
